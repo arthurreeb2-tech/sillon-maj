@@ -1,8 +1,8 @@
 {
- "version": "2026.11.09.2118",
- "fichier": "sillon-2026.11.09.2118.zip",
- "sha256": "2e9b30089dbfc68f95804fb06ccbbe483595cb45a47f046b533ac73abc4368f2",
- "signature": "XQd8jCU4hkfmAI1atV1bdY/fxmKE+Mr7EASMRlbxfoezP5VzV7auoYQPbUQoh7WiuNd7CH1wbOXYy3pMbMESCw==",
- "notes": "première mise à jour à chaud",
- "date": "2026-11-09T20:18:39.608Z"
+ "version": "2026.11.09.2133",
+ "fichier": "sillon-2026.11.09.2133.zip",
+ "sha256": "271503848e272202ded47df4727ce451463cb468001fba0b76fe11dca26c82f1",
+ "signature": "NKZJ/TVvQJ/KDqoRBmLF1Z8Us3VlkIbjI3CDeMxdxborfoa1GOP/yiMEjaiDtmxkaLcSF67OdpAjSZ7HcgluCA==",
+ "notes": "haptique sur tous les boutons",
+ "date": "2026-11-09T20:33:58.153Z"
 }
