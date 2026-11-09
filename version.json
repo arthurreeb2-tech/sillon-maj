@@ -1,8 +1,8 @@
 {
- "version": "2026.11.09.2141",
- "fichier": "sillon-2026.11.09.2141.zip",
- "sha256": "833a744187eb46f597cfc5042cb0af1fc36d78310430facd56e498ec9c70c001",
- "signature": "dgX2qlh0oQ2TCzBbd7Oo0cIYqsLrnDmLuu3uixb7mAvJ/90pIprhqhObPQjmKHOVtvfh9yCtnOm4uYAvu7dfCg==",
- "notes": "nouveau menu, icône Bac",
- "date": "2026-11-09T20:41:43.268Z"
+ "version": "2026.11.09.2216",
+ "fichier": "sillon-2026.11.09.2216.zip",
+ "sha256": "19eb125a8e60ca7e82ea972ac1ce4c10fddc5c7aa97d1dbc8c32e4366cc0a9f7",
+ "signature": "9jYtAeJSgHZdQRUt73jqVKJRFDhdO7Pm4X2vmnKxJP/mf+CXYXtJB1OmnFTbnRY5X4pa1Hqzzk5tlY4uVOCUDA==",
+ "notes": "Phase 5 : COLON comprend tes phrases ; Bac refondu",
+ "date": "2026-11-09T21:16:49.180Z"
 }
