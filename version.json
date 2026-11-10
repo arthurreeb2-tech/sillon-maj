@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1938",
- "fichier": "sillon-2026.11.10.1938.zip",
- "sha256": "71c8b7712915316d33ef9d9f02bf79b720e5b4b4950e5ce208778ece5b3a24f8",
- "signature": "P2um/FiwAqJH1UPC8s91oGGs5X6MLn75s8hkaiVrTCk6zD/CUwJ7sVHSlonqa0sIhkBeSsHqZ1mM+kzFZ8rDAA==",
- "notes": "Correctif : regard qui vrille, decks retrouvés après mise à jour",
- "date": "2026-11-10T18:38:29.829Z"
+ "version": "2026.11.10.2057",
+ "fichier": "sillon-2026.11.10.2057.zip",
+ "sha256": "4be36c9b6cad908b2ec5fab89f5d573eb2554d9875b355fa0c2fa0acb6c604a2",
+ "signature": "ODnhkezAy0nPBnBnpRlUkzh9xl1b+x9N9oczBfWj+F/eTl/B4ptvQ7qVV7SzuIQ+IRuzhw6wcnYmnmU1NkxPCQ==",
+ "notes": "Durée de chaque titre selon le récit",
+ "date": "2026-11-10T19:57:19.250Z"
 }
