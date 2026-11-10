@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1030",
- "fichier": "sillon-2026.11.10.1030.zip",
- "sha256": "33bd16a2ffe3595b2236091550ab92ca7ceaa7727f732dde6023cdd528e948fd",
- "signature": "Jjc3nZB9gY8h329rbol/3Kq9WDiEVutMYxmmm89F6vHRjXSCNvRrRxtGxlqwRxXZuSwBU5C8wm/XSRcyB/dTBQ==",
- "notes": "Refrain : pads, repères, entrée sur le refrain",
- "date": "2026-11-10T09:30:52.344Z"
+ "version": "2026.11.10.1038",
+ "fichier": "sillon-2026.11.10.1038.zip",
+ "sha256": "23c0286bcaa9c5b279b3215431e7e087d2c57e242a473cdfa23b888ba1e82a6e",
+ "signature": "iIAVHoWXJGUVcCbtyPM9XerbSCEs7sbzUdX+5mjHT5Vi6UWqwkvUxOpM1E/d4EfyY1Bt/XjBVwZx4bfdKQm9DA==",
+ "notes": "Importer un dossier",
+ "date": "2026-11-10T09:38:33.148Z"
 }
