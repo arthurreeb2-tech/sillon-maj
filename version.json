@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1837",
- "fichier": "sillon-2026.11.10.1837.zip",
- "sha256": "5d9653df62e86e7fdb5730a5da770ad80d268dd6090cbcf5fb16fe9aab620083",
- "signature": "976S2UrRzfexJXSjS5xLFmdJZSjM/GaVpWrGHhGatqHphkcUft6jc4iLj+a3zotBt/nUUrkJ4e0fI8+XlY5oBA==",
- "notes": "Récit du set : COLON regarde 4 titres plus loin",
- "date": "2026-11-10T17:37:48.312Z"
+ "version": "2026.11.10.1843",
+ "fichier": "sillon-2026.11.10.1843.zip",
+ "sha256": "60c5081a781fd7bfb052acb823d50ec2ff006efe67598f916aae0a18f968aee7",
+ "signature": "x7uDPrXwAj0065bR+96cP8oiHHu18Vag2MYC3CTe7t81FahvsYThQtc0DSoka7fwVCIg/tbydRWOY/51SLCQCw==",
+ "notes": "Mises à jour détectées et installées toutes seules",
+ "date": "2026-11-10T17:43:11.438Z"
 }
