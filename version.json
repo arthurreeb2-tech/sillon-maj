@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1917",
- "fichier": "sillon-2026.11.10.1917.zip",
- "sha256": "e471170c063f3670d4ced45eb69ef05b926d50a8d604aec4ec08d9d085968ffb",
- "signature": "8lDQz54TcpydT3K/nMZXIR6/8blktJko+KNfxpHO+pD+c/kyCF1SOpuoZkmdcLb324uz4v1jMojkHdpYzttnAw==",
- "notes": "COLON danse selon le style de musique",
- "date": "2026-11-10T18:17:37.279Z"
+ "version": "2026.11.10.1938",
+ "fichier": "sillon-2026.11.10.1938.zip",
+ "sha256": "71c8b7712915316d33ef9d9f02bf79b720e5b4b4950e5ce208778ece5b3a24f8",
+ "signature": "P2um/FiwAqJH1UPC8s91oGGs5X6MLn75s8hkaiVrTCk6zD/CUwJ7sVHSlonqa0sIhkBeSsHqZ1mM+kzFZ8rDAA==",
+ "notes": "Correctif : regard qui vrille, decks retrouvés après mise à jour",
+ "date": "2026-11-10T18:38:29.829Z"
 }
