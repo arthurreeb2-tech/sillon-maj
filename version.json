@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1411",
- "fichier": "sillon-2026.11.10.1411.zip",
- "sha256": "6d288510eb9a3ec0cad96c3945a129defce5e91ba71c18bb074292f5357ac580",
- "signature": "BIVqnFH7OFiIuKcIvVky0C3s/lEBWoru2X3/gou5UQ5g1pDNdvXXpiRngIJ2pQw1pvYesYyAoQCEWpN/yITjDw==",
- "notes": "COLON lit les notes : accord passage par passage, transposition du titre entrant",
- "date": "2026-11-10T13:11:47.403Z"
+ "version": "2026.11.10.1511",
+ "fichier": "sillon-2026.11.10.1511.zip",
+ "sha256": "d55e2afd8e4bf3c0c1a824b43920a98049f736326f809fe8efb0e0c401ad8827",
+ "signature": "9w7fLeHfo91O7yXpi02rzIyXOOwRh7jmnQqFL/lLWYMpQqMsVAYcEAs6IF6ytzlQKQqZm+LfqbMLadrQt7q8CA==",
+ "notes": "Transposition plus douce : 1 demi-ton max, retour à la tonalité d'origine",
+ "date": "2026-11-10T14:11:11.379Z"
 }
