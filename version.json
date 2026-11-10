@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1843",
- "fichier": "sillon-2026.11.10.1843.zip",
- "sha256": "60c5081a781fd7bfb052acb823d50ec2ff006efe67598f916aae0a18f968aee7",
- "signature": "x7uDPrXwAj0065bR+96cP8oiHHu18Vag2MYC3CTe7t81FahvsYThQtc0DSoka7fwVCIg/tbydRWOY/51SLCQCw==",
- "notes": "Mises à jour détectées et installées toutes seules",
- "date": "2026-11-10T17:43:11.438Z"
+ "version": "2026.11.10.1908",
+ "fichier": "sillon-2026.11.10.1908.zip",
+ "sha256": "e062b652c585c073fe7dfbb6a99a0858ec35d0cd14eaeb28ddd32d3bf27a8925",
+ "signature": "cwGd2Kldt2aS7KABKwhGpT1BDCzOLgNpmhYIH5NZ2T9JGK6nABIDPHg2FSCuKgcs3mjgp8mgRtrsspzd/kmEDw==",
+ "notes": "COLON sans cercle blanc, il danse au temps",
+ "date": "2026-11-10T18:08:00.567Z"
 }
