@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1236",
- "fichier": "sillon-2026.11.10.1236.zip",
- "sha256": "5a7c84748c0e5bc7c7b0aaf2cba64db6fe0c0890e8cbd4d7ac937ab1e5536fb2",
- "signature": "MaqMN9mYPhPuEpa/WuEoM2gaftCZjSYWCNfsRnDZsimNPnOs5+SB8XQjllchqupycSZ4z8Guok2E1fYVaoHNCw==",
- "notes": "COLON ne s'arrête plus en set en bouts ; haptique des curseurs",
- "date": "2026-11-10T11:36:58.934Z"
+ "version": "2026.11.10.1315",
+ "fichier": "sillon-2026.11.10.1315.zip",
+ "sha256": "d0c6f6f4aede293f2630d1d7aebb8469a6b08b6648c4d547a2c46fdcf4a991aa",
+ "signature": "OwhTU3WgLXgmkt7sXu2dziSxn33cQYmlaYJCb7llLMxAlX2PuXNlx0Y4koqCa+UU6pPoV7DxNEkj2hfTO1TKAA==",
+ "notes": "Transitions retouchées : plus discrètes",
+ "date": "2026-11-10T12:15:45.086Z"
 }
