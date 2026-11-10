@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1536",
- "fichier": "sillon-2026.11.10.1536.zip",
- "sha256": "68489a3dac366c1286af5a7e1c69c6892f2f0423a609d8f9065f73426ff83391",
- "signature": "OGxezf++vOVG/fSo2BWUjPeptZBarCmv0WdiDeIFXwZ33RuXWUjOOnGaKECXoo6hDm9kwUaA5iOMzdBji/s2Cg==",
- "notes": "Interface plus lisible : rien de coupé, COLON ne masque plus les decks",
- "date": "2026-11-10T14:36:50.600Z"
+ "version": "2026.11.10.1634",
+ "fichier": "sillon-2026.11.10.1634.zip",
+ "sha256": "230e96e4e2426e33ef5ff11d23df115ba2118beb96e8544b637c388ccccf653b",
+ "signature": "ZRP4175sGoyNxXm/EaVpVhnHYtry4T+DTz3HcWIhDs6xCpZZYhdvqiCwsMbOXsbpqXsndhdhTXu5r13x5yPuBg==",
+ "notes": "Coupe sur le drop refaite : seulement sur un vrai drop, coupe franche",
+ "date": "2026-11-10T15:34:29.074Z"
 }
