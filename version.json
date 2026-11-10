@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.0737",
- "fichier": "sillon-2026.11.10.0737.zip",
- "sha256": "640e99416d5ea22784059035d72d3e805416da73877a61c9b5f5441b0a837557",
- "signature": "bpge91xMc4KvUfIZ3Ub7blyGlyT4ROwxWsKcOZBY/IUny5atAgzqwrjph0WvRu83ike0aHJtgGieZQ/Pm3PtCg==",
- "notes": "Animations corrigées",
- "date": "2026-11-10T06:37:23.697Z"
+ "version": "2026.11.10.0808",
+ "fichier": "sillon-2026.11.10.0808.zip",
+ "sha256": "dc5dc0c4fd0c6956180edad6bfecfeed481224bda112973566a06f8576bcf9e6",
+ "signature": "P+dTfdu4nbyf5GpFmUUIROF/J+yzoJS8pJCLI+wQiGJdfElDd4wBpvZn7028mhLyPEJo3e68Yik6P0sGGfktBg==",
+ "notes": "Fin de set : Play n'est plus muet",
+ "date": "2026-11-10T07:08:51.036Z"
 }
