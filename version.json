@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1908",
- "fichier": "sillon-2026.11.10.1908.zip",
- "sha256": "e062b652c585c073fe7dfbb6a99a0858ec35d0cd14eaeb28ddd32d3bf27a8925",
- "signature": "cwGd2Kldt2aS7KABKwhGpT1BDCzOLgNpmhYIH5NZ2T9JGK6nABIDPHg2FSCuKgcs3mjgp8mgRtrsspzd/kmEDw==",
- "notes": "COLON sans cercle blanc, il danse au temps",
- "date": "2026-11-10T18:08:00.567Z"
+ "version": "2026.11.10.1917",
+ "fichier": "sillon-2026.11.10.1917.zip",
+ "sha256": "e471170c063f3670d4ced45eb69ef05b926d50a8d604aec4ec08d9d085968ffb",
+ "signature": "8lDQz54TcpydT3K/nMZXIR6/8blktJko+KNfxpHO+pD+c/kyCF1SOpuoZkmdcLb324uz4v1jMojkHdpYzttnAw==",
+ "notes": "COLON danse selon le style de musique",
+ "date": "2026-11-10T18:17:37.279Z"
 }
