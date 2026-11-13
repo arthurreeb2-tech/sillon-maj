@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.2057",
- "fichier": "sillon-2026.11.10.2057.zip",
- "sha256": "4be36c9b6cad908b2ec5fab89f5d573eb2554d9875b355fa0c2fa0acb6c604a2",
- "signature": "ODnhkezAy0nPBnBnpRlUkzh9xl1b+x9N9oczBfWj+F/eTl/B4ptvQ7qVV7SzuIQ+IRuzhw6wcnYmnmU1NkxPCQ==",
- "notes": "Durée de chaque titre selon le récit",
- "date": "2026-11-10T19:57:19.250Z"
+ "version": "2026.11.13.1226",
+ "fichier": "sillon-2026.11.13.1226.zip",
+ "sha256": "9a0c2c9b5d055e02c222953331abc26780dbd20a1f7727ca2786ac626c03556f",
+ "signature": "YlJVjCtmIkjZXwyV/OBW1ny4HSSVYgn+gUuGRZ/4kh9vpGt1nXgCrwMq9bFhpLYa64FLa44jImr+7rfU+6pfDw==",
+ "notes": "Programme du set : titres posés à une heure ou à un rang",
+ "date": "2026-11-13T11:26:10.053Z"
 }
