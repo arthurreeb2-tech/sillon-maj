@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1845",
- "fichier": "sillon-2026.11.13.1845.zip",
- "sha256": "e87d2984f29d84d830b3502d5452a227e8abe61917bb786c125b453be5903757",
- "signature": "47boNfgTjnDXNDN9nSC2cI27kGki3YXVL5yWHs8FDQ8m86ERiFISOBAUzZzz8KEHf+VjVB+M/y9KdMfaYop2AA==",
- "notes": "COLON animateur et toutes les voix françaises",
- "date": "2026-11-13T17:45:35.076Z"
+ "version": "2026.11.13.1919",
+ "fichier": "sillon-2026.11.13.1919.zip",
+ "sha256": "0e6a0f1ea7817faa8f7c60c8cd3869e465abccdd7a6fa12533084082a2fac96d",
+ "signature": "V4BHyssdFJ8wSyGdGdnioGxti+156jYheeo19aawlPURZFlMJO23l1s2f8v3TNQar9Xam3Nj9lsztYWMkJjnDg==",
+ "notes": "Voix corrigée, niveau Veille",
+ "date": "2026-11-13T18:19:55.166Z"
 }
