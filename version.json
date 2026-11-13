@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1919",
- "fichier": "sillon-2026.11.13.1919.zip",
- "sha256": "0e6a0f1ea7817faa8f7c60c8cd3869e465abccdd7a6fa12533084082a2fac96d",
- "signature": "V4BHyssdFJ8wSyGdGdnioGxti+156jYheeo19aawlPURZFlMJO23l1s2f8v3TNQar9Xam3Nj9lsztYWMkJjnDg==",
- "notes": "Voix corrigée, niveau Veille",
- "date": "2026-11-13T18:19:55.166Z"
+ "version": "2026.11.13.2124",
+ "fichier": "sillon-2026.11.13.2124.zip",
+ "sha256": "734986b63ff9b0fa162196a955259b00b98b465d66f42d794112f1854c1ef880",
+ "signature": "ndpdh2P7TJYxlLi+3KSRU+kPuD6z3Zg0tVPLBXpLP5TUDQfCVofhCDonp4E3LHeDLcWawGu4yTrwvUgRvnrdDQ==",
+ "notes": "Voix dosée et audible",
+ "date": "2026-11-13T20:24:48.519Z"
 }
