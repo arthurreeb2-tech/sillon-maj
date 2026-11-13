@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1335",
- "fichier": "sillon-2026.11.13.1335.zip",
- "sha256": "2b4b72feceea486f1689e74911858447283e0fc4a1a083a9f56891234a1b6456",
- "signature": "1TWxKl2shkL1/DgE9UCIwDGfiyq4noDVnI93YKt5Xay4/LZDvQvWGHTHhYVYPYBQRkKGL0bf6Gbzp+i9ZFsjCw==",
- "notes": "EQ et filtre en glissières tactiles",
- "date": "2026-11-13T12:35:39.383Z"
+ "version": "2026.11.13.1753",
+ "fichier": "sillon-2026.11.13.1753.zip",
+ "sha256": "83b211b7767087a5c3d095f45ff8552d48678cf08d9a9429689f62f5e6826bed",
+ "signature": "bualngziygn/ivxvQA+mIb/jN872Mij1F8jqkNhGI+e+Fw1IDxDa13OcsfhS7kNOZXqF7b2ZsTkPpbXe/GZCCA==",
+ "notes": "Vue épurée, casque séparé, voix de COLON (Mistral) ; touche Parler retirée",
+ "date": "2026-11-13T16:53:04.998Z"
 }
