@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1226",
- "fichier": "sillon-2026.11.13.1226.zip",
- "sha256": "9a0c2c9b5d055e02c222953331abc26780dbd20a1f7727ca2786ac626c03556f",
- "signature": "YlJVjCtmIkjZXwyV/OBW1ny4HSSVYgn+gUuGRZ/4kh9vpGt1nXgCrwMq9bFhpLYa64FLa44jImr+7rfU+6pfDw==",
- "notes": "Programme du set : titres posés à une heure ou à un rang",
- "date": "2026-11-13T11:26:10.053Z"
+ "version": "2026.11.13.1305",
+ "fichier": "sillon-2026.11.13.1305.zip",
+ "sha256": "af442c243921069d55865d9c139f1a3289acfcbc196ce8c9a5d783d24bc4e761",
+ "signature": "Ui+rGz1SUN3o32w+L+a8A+SdDKgMLUwyquSqy0ijdP/1/agzRl/NsBM3CArfMrAytl1CbXrcKN3LypjDnN1oBQ==",
+ "notes": "Copilote : COLON gère tout, les volumes, ou les EQ et filtres",
+ "date": "2026-11-13T12:05:25.956Z"
 }
