@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1305",
- "fichier": "sillon-2026.11.13.1305.zip",
- "sha256": "af442c243921069d55865d9c139f1a3289acfcbc196ce8c9a5d783d24bc4e761",
- "signature": "Ui+rGz1SUN3o32w+L+a8A+SdDKgMLUwyquSqy0ijdP/1/agzRl/NsBM3CArfMrAytl1CbXrcKN3LypjDnN1oBQ==",
- "notes": "Copilote : COLON gère tout, les volumes, ou les EQ et filtres",
- "date": "2026-11-13T12:05:25.956Z"
+ "version": "2026.11.13.1335",
+ "fichier": "sillon-2026.11.13.1335.zip",
+ "sha256": "2b4b72feceea486f1689e74911858447283e0fc4a1a083a9f56891234a1b6456",
+ "signature": "1TWxKl2shkL1/DgE9UCIwDGfiyq4noDVnI93YKt5Xay4/LZDvQvWGHTHhYVYPYBQRkKGL0bf6Gbzp+i9ZFsjCw==",
+ "notes": "EQ et filtre en glissières tactiles",
+ "date": "2026-11-13T12:35:39.383Z"
 }
