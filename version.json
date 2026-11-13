@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1753",
- "fichier": "sillon-2026.11.13.1753.zip",
- "sha256": "83b211b7767087a5c3d095f45ff8552d48678cf08d9a9429689f62f5e6826bed",
- "signature": "bualngziygn/ivxvQA+mIb/jN872Mij1F8jqkNhGI+e+Fw1IDxDa13OcsfhS7kNOZXqF7b2ZsTkPpbXe/GZCCA==",
- "notes": "Vue épurée, casque séparé, voix de COLON (Mistral) ; touche Parler retirée",
- "date": "2026-11-13T16:53:04.998Z"
+ "version": "2026.11.13.1818",
+ "fichier": "sillon-2026.11.13.1818.zip",
+ "sha256": "f16622d1ab12978a6fe518fcb597f80db929ea8942e9022ae5292443cb4af742",
+ "signature": "ivXQ7qJVWTrkM6ecfdnSiY8khpc63m+AbXtVuNwZKYqYK1Vc9tC/4YvjlPkKs4x084IeE1RNhJtY12v1teSrAg==",
+ "notes": "Jumelage Mistral en deux gestes",
+ "date": "2026-11-13T17:18:54.929Z"
 }
