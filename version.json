@@ -1,8 +1,8 @@
 {
- "version": "2026.11.13.1818",
- "fichier": "sillon-2026.11.13.1818.zip",
- "sha256": "f16622d1ab12978a6fe518fcb597f80db929ea8942e9022ae5292443cb4af742",
- "signature": "ivXQ7qJVWTrkM6ecfdnSiY8khpc63m+AbXtVuNwZKYqYK1Vc9tC/4YvjlPkKs4x084IeE1RNhJtY12v1teSrAg==",
- "notes": "Jumelage Mistral en deux gestes",
- "date": "2026-11-13T17:18:54.929Z"
+ "version": "2026.11.13.1845",
+ "fichier": "sillon-2026.11.13.1845.zip",
+ "sha256": "e87d2984f29d84d830b3502d5452a227e8abe61917bb786c125b453be5903757",
+ "signature": "47boNfgTjnDXNDN9nSC2cI27kGki3YXVL5yWHs8FDQ8m86ERiFISOBAUzZzz8KEHf+VjVB+M/y9KdMfaYop2AA==",
+ "notes": "COLON animateur et toutes les voix françaises",
+ "date": "2026-11-13T17:45:35.076Z"
 }
